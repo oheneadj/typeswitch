@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}" class="scroll-smooth">
+<html lang="en" class="scroll-smooth">
 
 <head>
     <meta charset="UTF-8" />
@@ -139,14 +138,13 @@
                     <div class="hero-content wow fadeInUp mx-auto max-w-[780px] text-center" data-wow-delay=".2s">
                         <h1
                             class="mb-8 text-3xl font-bold leading-snug text-white sm:text-4xl sm:leading-snug md:text-[45px] md:leading-snug">
-                            TypeSwitch
+                            typeSwitch
                         </h1>
                         <p
                             class="mx-auto mb-10 max-w-[600px] text-base text-[#e4e4e4] sm:text-lg sm:leading-relaxed md:text-xl md:leading-relaxed">
-                            Download videos and convert videos, audio and images. </br> All in one place.
+                            Multidisciplinary Web Template Built with Your Favourite
+                            Technology - HTML Bootstrap, Tailwind and React NextJS.
                         </p>
-                        <input type="text" name="fullName" placeholder="Paste Video Link Here"
-                            class="focus:border-primary border-rounded mb-10 w-2/4 border-[#f1f1f1] p-4 focus:outline-none">
                         <ul class="mb-10 flex flex-wrap items-center justify-center">
                             <li>
                                 <a href="https://links.tailgrids.com/play-download"
